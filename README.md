@@ -42,7 +42,7 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 | Computational Physics     | [Details](KAUST/Computational_Physics/README.md) |
 
 ### Memorable Projects at KAUST
-- **NASA Juncture Flow Simulation**: Optimizing time integrators for high-fidelity simulations
+- [**NASA Juncture Flow Simulation**: Optimizing time integrators for high-fidelity simulations](https://repository.kaust.edu.sa/items/732ce6c9-ef2d-4809-b37d-fae09cc5dbd9)
 
 ---
 
@@ -67,16 +67,16 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 | Topic                         | Sub-README                      |
 |-------------------------------|----------------------------------|
 | Python for Physics            | [Details](Self_Study/Python/README.md) |
-| General Relativity            | [Details](Self_Study/General_Relativity/README.md) |
-| Machine Learning for Physics  | [Details](Self_Study/ML_Physics/README.md) |
-| Numerical Methods             | [Details](Self_Study/Numerical_Methods/README.md) |
+| Mathematica                   | [Details](Self_Study/Python/README.md) |
+| Git                           | [Details](Self_Study/Python/README.md) |
+
 
 
 ### Progress Tracker
-- [ ] Advanced Python for Physics
-- [ ] Numerical Methods
-- [ ] General Relativity (advanced concepts)
-- [ ] Machine Learning for Physics
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 ---
 
@@ -103,11 +103,10 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 
 - **Mini-Project**:  
   **Title**: *When Quantum Mechanics Meets Special Relativity*  
-  - **Objective**: This project explored the intersection of quantum mechanics and special relativity, focusing on relativistic quantum equations and their implications for particle physics.  
+  - **Objective**:  
   - **Deliverables**:
     - [Project Report](PSI/Mini_Project/Report.pdf)  
     - [Presentation Slides](PSI/Mini_Project/Slides.pdf)  
-    - [Code/Simulations (if applicable)](PSI/Mini_Project/Code/)
 
 
 - **Qimam Fellowship Highlights**:
@@ -142,4 +141,4 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 ## Final Note
 
 
-🔗 Connect with me: [GitHub Profile](#) | [LinkedIn](#) | [Email](mailto:#)
+🔗 Connect with me: [GitHub Profile](#) | [LinkedIn](#) | [Email](mailto:phatimah.alhazmi@gmail.com#)
