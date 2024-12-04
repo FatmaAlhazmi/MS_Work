@@ -22,7 +22,7 @@ I first started doing Applied Mathematics at KAUST, which was quite a journey at
 
 ## ❤️ KAUST Experience
 
-My time at KAUST was transformative and full of exciting challenges. I will be forever grateful to (Professor Matteo Parsani)[https://www.kaust.edu.sa/en/study/faculty/matteo-parsani] for all his support and inspiration. Below are the key topics and courses I explored during my time at KAUST:
+My time at KAUST was transformative and full of exciting challenges. I will be forever grateful to [Professor Matteo Parsani](https://www.kaust.edu.sa/en/study/faculty/matteo-parsani) for all his support and inspiration. Below are the key topics and courses I explored during my time at KAUST:
 
 ### Table of Contents for KAUST Courses
 | Course Name               | Sub-README                   |
