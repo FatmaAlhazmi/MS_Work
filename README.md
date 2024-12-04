@@ -14,14 +14,15 @@ I first started doing Applied Mathematics at KAUST, which was quite a journey at
   - [Core Courses](#core-courses)
   - [Electives](#electives)
 - [📚 Self-Study](#-self-study)
+- [☀️ Summer Schools and Fellowships](#️-summer-schools-and-fellowships)
 - [🔗 Sources and Bibliography](#-sources-and-bibliography)
-- [ Final Note](#-final-note)
+- [🚀 Final Note](#-final-note)
 
 ---
 
 ## ❤️ KAUST Experience
 
-My time at KAUST was transformative and full of exciting challenges. I had the privilege of working in the **Advanced Algorithms and Numerical Analysis Lab**, where I gained hands-on experience with applied mathematics and high-performance computing. Below are the key topics and courses I explored during my time at KAUST:
+My time at KAUST was transformative and full of exciting challenges. I will be forever grateful to (Professor Matteo Parsani)[https://www.kaust.edu.sa/en/study/faculty/matteo-parsani] for all his support and inspiration. Below are the key topics and courses I explored during my time at KAUST:
 
 ### Courses and Topics
 - **Riemannian Geometry**: Exploring differential geometry applications
@@ -31,12 +32,12 @@ My time at KAUST was transformative and full of exciting challenges. I had the p
 
 ### Memorable Projects
 - **NASA Juncture Flow Simulation**: Optimizing time integrators for high-fidelity simulations
-- xx
-- xx
 
 ---
 
 ## 🏫 KFUPM Physics Program
+
+At KFUPM, I’ve embraced the rigor of a physics MS program, focusing on core topics, exciting electives, and self-driven research.
 
 ### Core Courses
 | Course Name                   | Status        | Notes |
@@ -73,6 +74,32 @@ Self-study has been a cornerstone of my academic journey. I enjoy diving deep in
 
 ---
 
+## ☀️ Summer Schools and Fellowships
+
+### **PSI Summer School & Qimam Fellowship**
+- **PSI Summer School Courses**:
+  - Quantum Field Theory
+  - General Relativity
+  - Cosmology
+- **Projects and Assignments**:
+  - [Link to homework and projects folder](#) (if applicable)
+
+- **Qimam Fellowship Highlights**:
+  - Leadership development sessions
+  - Networking opportunities with industry leaders
+
+### **Wolfram Summer School**
+- **Courses and Topics**:
+  - Advanced Mathematica for Physics Simulations
+  - Chaos and Dynamical Systems
+  - Introduction to Machine Learning for Physical Systems
+- **Main Project**:
+  - **Title**: Exploring the Three-Body Problem
+  - **Objective**: Developing computational tools to analyze chaotic systems and generate Poincaré maps
+  - [Link to project folder](#)
+
+---
+
 ## 🔗 Sources and Bibliography
 
 ### Favorite Books
@@ -90,7 +117,7 @@ Self-study has been a cornerstone of my academic journey. I enjoy diving deep in
 
 ---
 
-## Final Note
+## 🚀 Final Note
 
 This repository is a work in progress, just like my academic journey. I hope it serves as an inspiration for others to document their learning too. If you find this helpful or have suggestions, feel free to reach out or open a discussion!
 
