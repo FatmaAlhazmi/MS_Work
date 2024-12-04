@@ -36,10 +36,10 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 ### Table of Contents for KAUST Courses
 | Course Name               | Sub-README                   |
 |---------------------------|------------------------------|
-| Riemannian Geometry       | [Details](KAUST/Riemannian_Geometry/README.md) |
-| Linear Algebra            | [Details](KAUST/Linear_Algebra/README.md)      |
-| Applied Mathematics       | [Details](KAUST/Applied_Mathematics/README.md) |
-| Computational Physics     | [Details](KAUST/Computational_Physics/README.md) |
+| Riemannian Geometry       | [Details](KAUST/GR/README.md) |
+| Linear Algebra            | [Details](KAUST/LA/README.md)      |
+| Applied Mathematics       | [Details](KAUST/AM/README.md) |
+| Computational Physics     | [Details](KAUST/CP/README.md) |
 
 ### Memorable Projects at KAUST
 - [**NASA Juncture Flow Simulation**: Optimizing time integrators for high-fidelity simulations](https://repository.kaust.edu.sa/items/732ce6c9-ef2d-4809-b37d-fae09cc5dbd9)
