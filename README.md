@@ -16,7 +16,7 @@ I first started doing Applied Mathematics at KAUST, which was quite a journey at
 - [📚 Self-Study](#-self-study)
 - [☀️ Summer Schools and Fellowships](#️-summer-schools-and-fellowships)
 - [🔗 Sources and Bibliography](#-sources-and-bibliography)
-- [🚀 Final Note](#-final-note)
+- [Final Note](#-final-note)
 
 ---
 
@@ -24,47 +24,44 @@ I first started doing Applied Mathematics at KAUST, which was quite a journey at
 
 My time at KAUST was transformative and full of exciting challenges. I will be forever grateful to (Professor Matteo Parsani)[https://www.kaust.edu.sa/en/study/faculty/matteo-parsani] for all his support and inspiration. Below are the key topics and courses I explored during my time at KAUST:
 
-### Courses and Topics
-- **Riemannian Geometry**: Exploring differential geometry applications
-- **Linear Algebra**: Advanced techniques for numerical and symbolic methods
-- **Applied Mathematics**: Focused on fluid dynamics and time integration methods
-- **Computational Physics**: Implementing simulations for particle dynamics and chaotic systems
+### Table of Contents for KAUST Courses
+| Course Name               | Sub-README                   |
+|---------------------------|------------------------------|
+| Riemannian Geometry       | [Details](KAUST/Riemannian_Geometry/README.md) |
+| Linear Algebra            | [Details](KAUST/Linear_Algebra/README.md)      |
+| Applied Mathematics       | [Details](KAUST/Applied_Mathematics/README.md) |
+| Computational Physics     | [Details](KAUST/Computational_Physics/README.md) |
 
-### Memorable Projects
+### Memorable Projects at KAUST
 - **NASA Juncture Flow Simulation**: Optimizing time integrators for high-fidelity simulations
 
 ---
 
 ## 🏫 KFUPM Physics Program
 
-At KFUPM, I’ve embraced the rigor of a physics MS program, focusing on core topics, exciting electives, and self-driven research.
-
-### Core Courses
-| Course Name                   | Status        | Notes |
-|-------------------------------|---------------|-------|
-| Classical Mechanics           | 📘 In Progress | [Notes](#) |
-| Quantum Mechanics             | 📘 In Progress | [Notes](#) |
-| Statistical Mechanics         | 📘 In Progress | [Notes](#) |
-| Classical Electrodynamics     | 📘 In Progress | [Notes](#) |
-| Advanced Methods of Theoretical Physics | 📘 In Progress | [Notes](#) |
-
-### Electives
-| Course Name                     | Status        | Notes |
-|---------------------------------|---------------|-------|
-| Numerical Analysis of ODEs      | 📘 In Progress | [Notes](#) |
-| General Relativity              | 📘 In Progress | [Notes](#) |
+### Table of Contents for KFUPM Courses
+| Course Name                   | Sub-README                   |
+|-------------------------------|------------------------------|
+| Classical Mechanics           | [Details](KFUPM/Classical_Mechanics/README.md) |
+| Quantum Mechanics             | [Details](KFUPM/Quantum_Mechanics/README.md)   |
+| Statistical Mechanics         | [Details](KFUPM/Statistical_Mechanics/README.md) |
+| Classical Electrodynamics     | [Details](KFUPM/Classical_Electrodynamics/README.md) |
+| Advanced Methods of Theoretical Physics | [Details](KFUPM/Advanced_Methods/README.md) |
+| Numerical Analysis of ODEs    | [Details](KFUPM/Numerical_Analysis/README.md)   |
+| General Relativity            | [Details](KFUPM/General_Relativity/README.md)  |
 
 ---
 
 ## 📚 Self-Study
 
-Self-study has been a cornerstone of my academic journey. I enjoy diving deep into topics that extend beyond the classroom. Here’s what I’m currently exploring:
+### Table of Contents for Self-Study
+| Topic                         | Sub-README                      |
+|-------------------------------|----------------------------------|
+| Python for Physics            | [Details](Self_Study/Python/README.md) |
+| General Relativity            | [Details](Self_Study/General_Relativity/README.md) |
+| Machine Learning for Physics  | [Details](Self_Study/ML_Physics/README.md) |
+| Numerical Methods             | [Details](Self_Study/Numerical_Methods/README.md) |
 
-### Topics
-- **Advanced Python for Physics Simulations**: Developing symbolic and numerical tools
-- **General Relativity**: Exploring charged particles in black hole environments
-- **Machine Learning for Physics**: Investigating applications for high-energy physics and data analysis
-- **Numerical Methods**: Solving complex dynamical systems
 
 ### Progress Tracker
 - [ ] Advanced Python for Physics
@@ -82,7 +79,7 @@ Self-study has been a cornerstone of my academic journey. I enjoy diving deep in
   - General Relativity
   - Cosmology
 - **Projects and Assignments**:
-  - [Link to homework and projects folder](#) (if applicable)
+  - [Link to folder](PSI/README.md) (Coming Soon!)
 
 - **Qimam Fellowship Highlights**:
   - Leadership development sessions
@@ -96,29 +93,24 @@ Self-study has been a cornerstone of my academic journey. I enjoy diving deep in
 - **Main Project**:
   - **Title**: Exploring the Three-Body Problem
   - **Objective**: Developing computational tools to analyze chaotic systems and generate Poincaré maps
-  - [Link to project folder](#)
+  - [Link to project folder](Wolfram/README.md)
 
 ---
 
 ## 🔗 Sources and Bibliography
 
-### Favorite Books
-- **'Classical Mechanics' by John R. Taylor**
-- **'Modern Quantum Mechanics' by J.J. Sakurai**
-- **'Numerical Recipes in C++'**
+### Books
+
 
 ### Tools I Use
-- **Programming**: Python, Mathematica, Git
-- **Visualization**: Matplotlib, WolframAlpha
-- **Simulation**: NBodySimulation, symbolic solvers
+
 
 ### Instructors and Mentors
 - Special thanks to the incredible professors and mentors at KAUST and KFUPM who’ve guided me on this journey.
 
 ---
 
-## 🚀 Final Note
+## Final Note
 
-This repository is a work in progress, just like my academic journey. I hope it serves as an inspiration for others to document their learning too. If you find this helpful or have suggestions, feel free to reach out or open a discussion!
 
 🔗 Connect with me: [GitHub Profile](#) | [LinkedIn](#) | [Email](mailto:#)
