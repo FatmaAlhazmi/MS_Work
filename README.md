@@ -65,7 +65,7 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 
 ### Progress Tracker
 - [ ] Advanced Python for Physics
-- [x] Numerical Methods
+- [ ] Numerical Methods
 - [ ] General Relativity (advanced concepts)
 - [ ] Machine Learning for Physics
 
@@ -73,13 +73,33 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 
 ## ☀️ Summer Schools and Fellowships
 
-### **PSI Summer School & Qimam Fellowship**
-- **PSI Summer School Courses**:
-  - Quantum Field Theory
-  - General Relativity
-  - Cosmology
-- **Projects and Assignments**:
-  - [Link to folder](PSI/README.md) (Coming Soon!)
+### **PSI Summer School**
+- **Courses Taken**:
+  1. **Path Integrals**  
+     - [Notes](PSI/Path_Integrals/Notes/)  
+     - [Homework](PSI/Path_Integrals/Homework/)  
+     - [Solutions](PSI/Path_Integrals/Solutions/)  
+  2. **Numerical Methods**  
+     - [Notes](PSI/Numerical_Methods/Notes/)  
+     - [Homework](PSI/Numerical_Methods/Homework/)  
+     - [Solutions](PSI/Numerical_Methods/Solutions/)  
+  3. **Quantum Information**  
+     - [Notes](PSI/Quantum_Information/Notes/)  
+     - [Homework](PSI/Quantum_Information/Homework/)  
+     - [Solutions](PSI/Quantum_Information/Solutions/)  
+  4. **Symmetries**  
+     - [Notes](PSI/Symmetries/Notes/)  
+     - [Homework](PSI/Symmetries/Homework/)  
+     - [Solutions](PSI/Symmetries/Solutions/)  
+
+- **Mini-Project**:  
+  **Title**: *When Quantum Mechanics Meets Special Relativity*  
+  - **Objective**: This project explored the intersection of quantum mechanics and special relativity, focusing on relativistic quantum equations and their implications for particle physics.  
+  - **Deliverables**:
+    - [Project Report](PSI/Mini_Project/Report.pdf)  
+    - [Presentation Slides](PSI/Mini_Project/Slides.pdf)  
+    - [Code/Simulations (if applicable)](PSI/Mini_Project/Code/)
+
 
 - **Qimam Fellowship Highlights**:
   - Leadership development sessions
@@ -106,7 +126,7 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 
 
 ### Instructors and Mentors
-- Special thanks to the incredible professors and mentors at KAUST and KFUPM who’ve guided me on this journey.
+
 
 ---
 
