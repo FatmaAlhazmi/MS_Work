@@ -10,8 +10,15 @@ I first started doing Applied Mathematics at KAUST, which was quite a journey at
 
 # KAUST <3
 
-## Cources
+## Courses
 
+### Riemannian Geometry
+
+### Linear Algebra
+
+### Applied Mathematics
+
+### Computational Physics
 
 -------
 
@@ -19,7 +26,15 @@ I first started doing Applied Mathematics at KAUST, which was quite a journey at
 # KFUPM
 
 ## Courses
-
+ ## Core
+ ### Classical Mechanics
+ ### Quantum Mechanics
+ ### Statistical Mechanics
+ ### Classical Electrodynamics
+ ### Advanced Methods of Theoretical Physics
+## Electives
+ ### Numerical Analysis of ODEs
+ ### General Relativity
 ------
 
 
@@ -30,3 +45,7 @@ I first started doing Applied Mathematics at KAUST, which was quite a journey at
 -------
 
 # Sources 
+
+# Instructors
+
+# Bibliography
