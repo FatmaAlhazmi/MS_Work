@@ -28,15 +28,15 @@ These notes cover key topics and concepts discussed in the course, along with wo
 
 | Homework Number  | Homework File               | Solution File               |
 |------------------|-----------------------------|-----------------------------|
-| Homework 1       | [HW 1](HW_1.pdf)            | [HW 1 Solution](hws1)        |
-| Homework 2       | [HW 1](HW_2.pdf)            | [HW 2 Solution](hws2)        |
-| Homework 3       | [HW 1](HW_3.pdf)            | [HW 3 Solution](hws3)        |
-| Homework 1       |[HW 1](HW_4.pdf)             | [HW 1 Solution](hws4)        |
-| Homework 2       |[HW 1](HW_5.pdf)             | [HW 2 Solution](hws5)        |
-| Homework 3       |[HW 1](HW_6.pdf)             | [HW 3 Solution](hws6)        |
-| Homework 1       | [HW 1](HW_7.pdf)            | [HW 1 Solution](hws7)        |
-| Homework 2       | [HW 1](HW_8.pdf)            | [HW 2 Solution](hws8)        |
-| Homework 3       | [HW 1](HW_9.pdf)            | [HW 3 Solution](hws9)        |
+| Homework 1       | [HW 1](HW#1.pdf)            | [HW 1 Solution](hws1)        |
+| Homework 2       | [HW 1](HW#2.pdf)            | [HW 2 Solution](hws2)        |
+| Homework 3       | [HW 1](HW#3.pdf)            | [HW 3 Solution](hw3)        |
+| Homework 1       |[HW 1](HW#4.pdf)             | [HW 1 Solution](hw4)        |
+| Homework 2       |[HW 1](HW#5.pdf)             | [HW 2 Solution](hws5)        |
+| Homework 3       |[HW 1](HW#6.pdf)             | [HW 3 Solution](hws6)        |
+| Homework 1       | [HW 1](HW#7.pdf)            | [HW 1 Solution](hws7)        |
+| Homework 2       | [HW 1](HW#8.pdf)            | [HW 2 Solution](hws8)        |
+| Homework 3       | [HW 1](HW#9.pdf)            | [HW 3 Solution](hws9)        |
 
 ---
 
