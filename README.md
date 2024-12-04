@@ -7,9 +7,13 @@ My wonderful friend created a similar repo during her bachelor’s in CS, and I 
 I first started doing Applied Mathematics at KAUST, which was quite a journey at the Advanced Algorithms and Numerical Analysis Lab. I have so so much love for this group and for KAUST. However, after A LOT of thinking, I decided to switch gears and go back to physics and so I joined the physics program at KFUPM.
 
 
-![Master's Journey Repository Banner](./banner1.png)
+<p align="center">
+  <img src="./banner1.png" alt="Master's Journey Repository Banner">
+</p>
 
-*This image was created using [DALL·E](https://openai.com/dall-e/).*
+<p align="center">
+  <i>Image created using <a href="https://openai.com/dall-e/">DALL·E</a>.</i>
+</p>
 ---
 
 ## 📖 Table of Contents
