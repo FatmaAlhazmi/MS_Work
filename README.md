@@ -36,7 +36,7 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 ### Table of Contents for KAUST Courses
 | Course Name               | Sub-README                   |
 |---------------------------|------------------------------|
-| Riemannian Geometry       | [Details](KAUST/GR/README.md) |
+| Riemannian Geometry       | [Details](KAUST/RG/README.md) |
 | Linear Algebra            | [Details](KAUST/LA/README.md)      |
 | Applied Mathematics       | [Details](KAUST/AM/README.md) |
 | Computational Physics     | [Details](KAUST/CP/README.md) |
@@ -51,13 +51,13 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 ### Table of Contents for KFUPM Courses
 | Course Name                   | Sub-README                   |
 |-------------------------------|------------------------------|
-| Classical Mechanics           | [Details](KFUPM/Classical_Mechanics/README.md) |
-| Quantum Mechanics             | [Details](KFUPM/Quantum_Mechanics/README.md)   |
-| Statistical Mechanics         | [Details](KFUPM/Statistical_Mechanics/README.md) |
-| Classical Electrodynamics     | [Details](KFUPM/Classical_Electrodynamics/README.md) |
-| Advanced Methods of Theoretical Physics | [Details](KFUPM/Advanced_Methods/README.md) |
-| Numerical Analysis of ODEs    | [Details](KFUPM/Numerical_Analysis/README.md)   |
-| General Relativity            | [Details](KFUPM/General_Relativity/README.md)  |
+| Classical Mechanics           | [Details](KFUPM/Core/CM/README.md) |
+| Quantum Mechanics             | [Details](KFUPM/Core/QM/README.md)   |
+| Statistical Mechanics         | [Details](KFUPM/Core/SM/README.md) |
+| Classical Electrodynamics     | [Details](KFUPM/Core/CED/README.md) |
+| Advanced Methods of Theoretical Physics | [Details](KFUPM/Core/AMTTP/README.md) |
+| Numerical Analysis of ODEs    | [Details](KFUPM/Elective/NAODEs/README.md)   |
+| General Relativity            | [Details](KFUPM/Elective/GR/README.md)  |
 
 ---
 
@@ -67,8 +67,8 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 | Topic                         | Sub-README                      |
 |-------------------------------|----------------------------------|
 | Python for Physics            | [Details](Self_Study/Python/README.md) |
-| Mathematica                   | [Details](Self_Study/Python/README.md) |
-| Git                           | [Details](Self_Study/Python/README.md) |
+| Mathematica                   | [Details](Self_Study/mathematica/README.md) |
+| Git                           | [Details](Self_Study/Git/README.md) |
 
 
 
