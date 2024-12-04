@@ -56,8 +56,8 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 | Statistical Mechanics         | [Details](KFUPM/Core/SM/README.md) |
 | Classical Electrodynamics     | [Details](KFUPM/Core/CED/README.md) |
 | Advanced Methods of Theoretical Physics | [Details](KFUPM/Core/AMTTP/README.md) |
-| Numerical Analysis of ODEs    | [Details](KFUPM/Elective/NAODEs/README.md)   |
-| General Relativity            | [Details](KFUPM/Elective/GR/README.md)  |
+| Numerical Analysis of ODEs    | [Details](KFUPM/Electives/NAODEs/README.md)   |
+| General Relativity            | [Details](KFUPM/Electives/GR/README.md)  |
 
 ---
 
