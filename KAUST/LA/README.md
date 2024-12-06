@@ -18,3 +18,17 @@
 | Handwritten Notes (Random and Messy) | [Notes](/KAUST/LA/My_notes_for_linear_algebra.pdf) |
 
 
+----
+
+### References
+1. *Linear Algebra and Its Applications* by Gilbert Strang  
+
+
+# Grad Level Linear Algebra
+
+
+
+----
+### References
+1. *Linear Algebra Done Right* by Sheldon Axler  
+2. *Linear Algebra* by Hoffmann and Kunze  
