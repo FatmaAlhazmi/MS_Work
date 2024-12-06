@@ -9,15 +9,15 @@ These notes cover key topics and concepts discussed in the course, along with wo
 
 | Topic                              | Notes File                            |
 |------------------------------------|---------------------------------------|
-|Review of first order ODEs, Linearity, Superposition Principle, Linear Independence.                        | 
-|Review of second order ODEs          | [Notes 2]()         |
-|ODEs, Greens function        | [Notes 3]()                  |
-|Green's function and eigenvalue problem         | [Notes 1]()|
-|Eigenvalue problem and Fourier series         | [Notes 2]()         |
-|PDE: separation of variables         | [Notes 3]()                  |
-|General problems, eigenfunction expansion         | [Notes 1]()|
-|Method of characteristics| [Notes 2]()         |
-|Examples and review                   | [Notes 3]()                  |
+|Review of first order ODEs, Linearity, Superposition Principle, Linear Independence.    | [Notes]()         |       
+|Review of second order ODEs          | [Notes]()         |
+|ODEs, Greens function        | [Notes]()                  |
+|Green's function and eigenvalue problem         | [Notes]()|
+|Eigenvalue problem and Fourier series         | [Notes]()         |
+|PDE: separation of variables         | [Notes]()                  |
+|General problems, eigenfunction expansion         | [Notes]()|
+|Method of characteristics| [Notes]()         |
+|Examples and review                   | [Notes]()                  |
 
 
 ---
