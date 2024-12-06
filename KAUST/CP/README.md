@@ -1,9 +1,5 @@
 # Advanced Computational Physics
 
-This folder contains materials from the **Advanced Computational Physics** course. The course focuses on advanced numerical methods and simulations used to solve complex physics problems.
-
----
-
 I will, hopefully, soon upload a file containing the course content.
 
 ---
