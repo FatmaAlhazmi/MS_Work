@@ -28,14 +28,14 @@ These notes cover key topics and concepts discussed in the course, along with wo
 
 | Homework File    | Solution File                          |
 |------------------|----------------------------------------|
-|[HW 1]([HW#1.pdf](https://github.com/FatmaAlhazmi/MS_Work/blob/main/KAUST/AM/HW%231.pdf))            | [HW 1 Solution](hws1)        |
-|[HW 2]([HW#2.pdf](https://github.com/FatmaAlhazmi/MS_Work/blob/main/KAUST/AM/HW%232.pdf))            | [HW 2 Solution](hws2)        |
-|[HW 3]([HW#3.pdf](https://github.com/FatmaAlhazmi/MS_Work/blob/main/KAUST/AM/hw3.pdf))            | [HW 3 Solution](hws3)        |
-|[HW 4]([HW#4.pdf](https://github.com/FatmaAlhazmi/MS_Work/blob/main/KAUST/AM/HW%20%234.pdf))            | [HW 4 Solution](hws4)        |
-|[HW 5]([HW#5.pdf](https://github.com/FatmaAlhazmi/MS_Work/blob/main/KAUST/AM/HW%20%235.pdf))            | [HW 5 Solution](hws5)        |
-|[HW 6]([HW#6.pdf](https://github.com/FatmaAlhazmi/MS_Work/blob/main/KAUST/AM/HW%206.pdf))            | [HW 6 Solution](hws6)        |
-|[HW 7]([HW#7.pdf](https://github.com/FatmaAlhazmi/MS_Work/blob/main/KAUST/AM/HW%20%237.pdf))            | [HW 7 Solution](hws7)        |
-|[HW 8]([HW#8.pdf](https://github.com/FatmaAlhazmi/MS_Work/blob/main/KAUST/AM/HW%20%238.pdf))            | [HW 8 Solution](hws8)        |
+|[HW 1](https://github.com/FatmaAlhazmi/MS_Work/blob/main/KAUST/AM/HW%231.pdf)           | [HW 1 Solution](hws1)        |
+|[HW 2](https://github.com/FatmaAlhazmi/MS_Work/blob/main/KAUST/AM/HW%232.pdf)           | [HW 2 Solution](hws2)        |
+|[HW 3](https://github.com/FatmaAlhazmi/MS_Work/blob/main/KAUST/AM/hw3.pdf)            | [HW 3 Solution](hws3)        |
+|[HW 4](https://github.com/FatmaAlhazmi/MS_Work/blob/main/KAUST/AM/HW%20%234.pdf)            | [HW 4 Solution](hws4)        |
+|[HW 5](https://github.com/FatmaAlhazmi/MS_Work/blob/main/KAUST/AM/HW%20%235.pdf)            | [HW 5 Solution](hws5)        |
+|[HW 6](https://github.com/FatmaAlhazmi/MS_Work/blob/main/KAUST/AM/HW%206.pdf)            | [HW 6 Solution](hws6)        |
+|[HW 7](https://github.com/FatmaAlhazmi/MS_Work/blob/main/KAUST/AM/HW%20%237.pdf)            | [HW 7 Solution](hws7)        |
+|[HW 8](https://github.com/FatmaAlhazmi/MS_Work/blob/main/KAUST/AM/HW%20%238.pdf)            | [HW 8 Solution](hws8)        |
 
 
 ---
