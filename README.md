@@ -60,7 +60,7 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 
 ---
 
-## 📚 Self-Study
+## 📚 Self-Study and Tutprials
 
 ### Table of Contents for Self-Study
 | Topic                         | Tutorial                      |
@@ -76,6 +76,14 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 - [ ] 
 - [ ] 
 - [ ] 
+
+## 📚 Self-Study
+
+In addition to my personal studies, I enjoy creating educational programs for my little nephews and nieces to introduce them to STEM concepts. These programs are designed to be interactive and hands-on.
+
+- [Scratch, Makey Makey, Microbit, Math Critical Thinking, and Robotics (Ages 8–9)](MS_Work/Summer_plan2_kiddos.pdf)
+- [Python, Arduino, and 3D Printing (Ages 12–14)](MS_Work/Summer_plan_for_my_kiddos-2.pdf)
+
 
 ---
 
