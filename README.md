@@ -65,7 +65,7 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 ### Table of Contents for Self-Study
 | Topic                         | Tutorial                      |
 |-------------------------------|----------------------------------|
-| Python for Physics            | [Details](Self_Study/Python/README.md) |
+| Python for Physics            | [Details](Python/README.md) |
 | Mathematica                   | [Details](Self_Study/mathematica/README.md) |
 | Python for data science       | [Details](Self_Study/Git/README.md) |
 | Git                           | [Details](Self_Study/Git/README.md) |
