@@ -14,13 +14,15 @@ My wonderful friend created a similar repo during her bachelor’s in CS, and I 
 
 I first started doing Applied Mathematics at KAUST, which was quite a journey at the Advanced Algorithms and Numerical Analysis Lab. I have so so much love for this group and for KAUST. However, after A LOT of thinking, I decided to switch gears and go back to physics and so I joined the physics program at KFUPM.
 
+I created this repo to organize everything in one place for easy reference and to develop my skills in LaTeX (especially for creating diagrams) and Git. While I’ve done my best to ensure these notes are accurate, they are personal and may include errors, typos, or oversights. If you spot anything or have ideas for improvement, I’d greatly appreciate your feedback!
+
+
+
 ---
 
 ## 📖 Table of Contents
 - [❤️ KAUST Experience](#️-kaust-experience)
 - [🏫 KFUPM Physics Program](#-kfupm-physics-program)
-  - [Core Courses](#core-courses)
-  - [Electives](#electives)
 - [📚 Self-Study and Tutorials](#-self-study)
 - [☀️ Summer Schools and Fellowships](#️-summer-schools-and-fellowships)
 - [🔗 Sources and Bibliography](#-sources-and-bibliography)
@@ -87,31 +89,19 @@ In addition to my personal studies, I enjoy creating educational programs for my
 
 ## ☀️ Summer Schools and Fellowships
 
-### **PSI Summer School**
+### **PSI Summer School (Perimeter Institute)**
 - **Courses Taken**:
   1. **Path Integrals**  
-     - [Notes](PSI/Path_Integrals/Notes/)  
-     - [Homework](PSI/Path_Integrals/Homework/)  
-     - [Solutions](PSI/Path_Integrals/Solutions/)  
+     - [Notes and Homework](PSI/Path_Integrals/Notes/)  
   2. **Numerical Methods**  
-     - [Notes](PSI/Numerical_Methods/Notes/)  
-     - [Homework](PSI/Numerical_Methods/Homework/)  
-     - [Solutions](PSI/Numerical_Methods/Solutions/)  
+     - [Notes and Homework](PSI/Numerical_Methods/Notes/)  
   3. **Quantum Information**  
-     - [Notes](PSI/Quantum_Information/Notes/)  
-     - [Homework](PSI/Quantum_Information/Homework/)  
-     - [Solutions](PSI/Quantum_Information/Solutions/)  
+     - [Notes and Homework](PSI/Quantum_Information/Notes/)  
   4. **Symmetries**  
-     - [Notes](PSI/Symmetries/Notes/)  
-     - [Homework](PSI/Symmetries/Homework/)  
-     - [Solutions](PSI/Symmetries/Solutions/)  
+     - [Notes and Homework](PSI/Symmetries/Notes/)  
 
 - **Mini-Project**:  
-  **Title**: *When Quantum Mechanics Meets Special Relativity*  
-  - **Objective**:  
-  - **Deliverables**:
-    - [Project Report](PSI/Mini_Project/Report.pdf)  
-    - [Presentation Slides](PSI/Mini_Project/Slides.pdf)  
+  [*When Quantum Mechanics Meets Special Relativity*]()
 
 
 - **Qimam Fellowship Highlights**:
