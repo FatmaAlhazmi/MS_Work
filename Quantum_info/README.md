@@ -11,8 +11,7 @@
 
 ## 📝 Exercises
 - [Lecture 1 Exercises](QI_lec_1_exercises.pdf)
-- [Lecture 2 Exercises](QI_lec_2_exercises.pdf)
-- [Lecture 2 Exercises (Revised)](QI_lec_2_exercises_revised.pdf)
+- [Lecture 2 Exercises](QI_lec_2_exercises_revised.pdf)
 - [Lecture 3 Exercises](QI_Lec_3_Exercises.pdf)
 - [Lecture 4 Exercises](QI_Lec_4_Exercises.pdf)
 
