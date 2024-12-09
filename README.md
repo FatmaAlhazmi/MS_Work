@@ -12,11 +12,9 @@ This repo is more like a personal diary for my academic journey, primarily inten
 
 My wonderful friend created a similar repo during her bachelor’s in CS, and I found the idea super inspiring ([check out her amazing repo!](https://github.com/siudro/Operating_Systems_Labs)). Since I also have a deep passion for documenting and organizing information, I decided to create one for my MS journey. Here, I aim to compile and structure all my notes, homework assignments (along with their solutions), tutorials of tools I frequently use (like Git), and anything else I learn along the way.
 
-I first started doing Applied Mathematics at KAUST, which was quite a journey at the Advanced Algorithms and Numerical Analysis Lab. I have so so much love for this group and for KAUST. However, after A LOT of thinking, I decided to switch gears and go back to physics and so I joined the physics program at KFUPM.
-
 I created this repo to organize everything in one place for easy reference and to develop my skills in LaTeX (especially for creating diagrams) and Git. While I’ve done my best to ensure these notes are accurate, they are personal and may include errors, typos, or oversights. If you spot anything or have ideas for improvement, I’d greatly appreciate your feedback!
 
-
+I first started doing Applied Mathematics at KAUST, which was quite a journey at the Advanced Algorithms and Numerical Analysis Lab. I have so so much love for this group and for KAUST. However, after A LOT of thinking, I decided to switch gears and go back to physics and so I joined the physics program at KFUPM.
 
 ---
 
