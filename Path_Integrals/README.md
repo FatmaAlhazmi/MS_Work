@@ -1,7 +1,7 @@
 # Path Integrals
 
 ## 📖 Course Materials
-- [Syllabus](/Path_Integrals_Syllabus.pdf)
+- [Syllabus](Path_Integrals_Syllabus.pdf)
 - [Day 1 Lecture Notes](Path_Integrals_Day_1.pdf)
 - [Day 2 Lecture Notes](Path_Integrals_Day_2.pdf)
 - [Day 3 Lecture Notes](Path_Integrals_Day_3.pdf)
