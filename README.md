@@ -74,7 +74,7 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 | Python for Physics            | [Details](Python_Tutorials/README.md) |
 | Mathematica                   | [Details](Self_Study/mathematica/README.md) |
 | Python for data science       | [Details](Self_Study/Git/README.md) |
-| Git                           | [Details](Self_Study/Git/README.md) |
+| Git                           | [Details](Git_commands.md) |
 
 
 In addition to my personal studies, I enjoy creating educational programs for my little nephews and nieces to introduce them to STEM concepts. These programs are designed to be interactive and hands-on.
