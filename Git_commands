@@ -1,1 +1,95 @@
+Here’s a simple Git tutorial/cheat sheet in Markdown format, with easy-to-copy commands for macOS and Ubuntu Linux:
+
+# Git Quick Tutorial
+
+This tutorial will guide you through basic Git commands to set up a repository, track changes, and push files to GitHub.
+
+---
+
+## 1. Set Up Your Repository
+
+### Steps:
+1. Create a GitHub profile (if you don’t have one already).
+2. Fork a repository or create a new one on GitHub.
+3. Follow these steps to initialize and set up your local repository.
+
+### Tasks and Commands
+
+| Task                                           | Git Command                                           |
+|------------------------------------------------|------------------------------------------------------|
+| Clone the repository to your local machine     | `git clone <repository-link>`                       |
+| Move your files into the local repository      | `cp <file-name> <destination>`                      |
+| Create a `.gitignore` file                     | `touch .gitignore`                                  |
+| Add file names to `.gitignore` (edit manually) | Open `.gitignore` and list file names               |
+| Check the status of your files                 | `git status`                                        |
+| Stage all your changes                         | `git add .`                                         |
+| Commit your changes with a message             | `git commit -m "Add my files"`                     |
+| Push your changes to the remote repository     | `git push origin master`                           |
+
+---
+
+## 2. Common Git Commands
+
+### Initialization
+```bash
+# Initialize a new Git repository
+git init
+
+Cloning
+
+# Clone a repository from GitHub
+git clone <repository-link>
+
+Tracking Changes
+
+# Check the status of your repository
+git status
+
+# Stage a specific file
+git add <file-name>
+
+# Stage all changes
+git add .
+
+Committing Changes
+
+# Commit with a message
+git commit -m "Your commit message"
+
+Pushing Changes
+
+# Push changes to the remote repository
+git push origin master
+
+3. Advanced Git Commands
+
+Branching
+
+# Create a new branch
+git branch <branch-name>
+
+# Switch to a branch
+git checkout <branch-name>
+
+# Create and switch to a new branch
+git checkout -b <branch-name>
+
+Pulling Changes
+
+# Pull the latest changes from the remote repository
+git pull origin master
+
+Undoing Changes
+
+# Unstage a file
+git reset <file-name>
+
+# Undo changes in a file
+git checkout -- <file-name>
+
+4. Useful Tips
+	•	macOS/Linux: Use touch to create empty files (e.g., .gitignore).
+	•	Always commit frequently: Write clear commit messages to document your progress.
+	•	Check your work: Use git log to see your commit history.
+
 
