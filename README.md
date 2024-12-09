@@ -1,4 +1,4 @@
-[English](README.md)&nbsp;|&nbsp;[العربية](README_ar.md)&nbsp;|&nbsp;[Deutsch](README_de.md)
+[English](README.md) | [العربية](README_ar.md) | [Deutsch](README_de.md)
 
 # Master's Journey Repository
 
