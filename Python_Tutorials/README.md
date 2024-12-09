@@ -19,3 +19,16 @@ This folder contains Jupyter Notebook tutorials covering various Python librarie
 - [Dedalus](Dedalus.ipynb)
 - [FiPy](FiPy.ipynb)
 
+Progress Tracker:
+
+- [x] Python Basics
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
