@@ -1,4 +1,8 @@
-[English](README.md) | [العربية](README_ar.md) | [Deutsch](README_de.md)
+<div dir="ltr" style="text-align: center; font-size: 16px;">
+  <a href="README.md">English</a> |
+  <a href="README_ar.md">العربية</a> |
+  <a href="README_de.md">Deutsch</a>
+</div>
 
 # Master's Journey Repository
 
