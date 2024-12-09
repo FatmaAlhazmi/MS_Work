@@ -71,12 +71,6 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 | Git                           | [Details](Self_Study/Git/README.md) |
 
 
-### Progress Tracker
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
 In addition to my personal studies, I enjoy creating educational programs for my little nephews and nieces to introduce them to STEM concepts. These programs are designed to be interactive and hands-on.
 
 - [Scratch, Makey Makey, Microbit, Math Critical Thinking, and Robotics (Ages 8–9)](Summer_plan2_kiddos.pdf)
