@@ -26,12 +26,10 @@ I first started doing Applied Mathematics at KAUST, which was quite a journey at
 
 ## 📖 Table of Contents
 - [❤️ KAUST Experience](#️-kaust-experience)
-- [🏫 KFUPM Physics Program](#-kfupm-physics-program)
-- [📚 Self-Study and Tutorials](#-self-study)
-- [☀️ Summer Schools and Fellowships](#️-summer-schools-and-fellowships)
-- [🔗 Sources and Bibliography](#-sources-and-bibliography)
-- [Final Note](#-final-note)
-
+- [KFUPM Physics Program](#-kfupm-physics-program)
+- [Self-Study and Tutorials](#-self-study)
+- [☀ Summer Schools and Fellowships](#️-summer-schools-and-fellowships)
+- [Sources and Bibliography](#-sources-and-bibliography)
 ---
 
 ## ❤️ KAUST Experience
@@ -51,7 +49,7 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 
 ---
 
-## 🏫 KFUPM Physics Program
+## KFUPM Physics Program
 
 ### Table of Contents for KFUPM Courses
 | Course Name                   | Sub-README                   |
@@ -66,7 +64,7 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 
 ---
 
-## 📚 Self-Study and Tutprials
+## Self-Study and Tutprials
 
 ### Table of Contents for Self-Study
 | Topic                         | Tutorial                      |
@@ -85,7 +83,7 @@ In addition to my personal studies, I enjoy creating educational programs for my
 
 ---
 
-## ☀️ Summer Schools and Fellowships
+## ☀ Summer Schools and Fellowships
 
 ### **PSI Summer School (Perimeter Institute)**
 - **Courses Taken**:
@@ -118,20 +116,10 @@ In addition to my personal studies, I enjoy creating educational programs for my
 
 ---
 
-## 🔗 Sources and Bibliography
+## Sources and Bibliography
 
-### Books
-
-
-### Tools I Use
-
-
-### Instructors and Mentors
 
 
 ---
-
-## Final Note
-
 
 🔗 Connect with me: [GitHub Profile](#) | [LinkedIn](#) | [Email](mailto:phatimah.alhazmi@gmail.com#)
