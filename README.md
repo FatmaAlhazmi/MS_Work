@@ -92,9 +92,9 @@ In addition to my personal studies, I enjoy creating educational programs for my
   2. **Numerical Methods**  
      - [Notes and Homework](Num_Methods)  
   3. **Quantum Information**  
-     - [Notes and Homework](Quantum_Info/)  
+     - [Notes and Homework](Quantum_Info)  
   4. **Symmetries**  
-     - [Notes and Homework](Symmetries/)  
+     - [Notes and Homework](Symmetries)  
 
 - **Mini-Project**:  
   [*When Quantum Mechanics Meets Special Relativity*](PSIQFT2022__Real_.pdf)
