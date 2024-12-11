@@ -60,7 +60,7 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 | Classical Electrodynamics     | Soon |
 | Advanced Methods of Theoretical Physics | Soon |
 | Numerical Analysis of ODEs    | [Details](KFUPM/Electives/NAODEs/README.md)   |
-| General Relativity            |  |
+| General Relativity            | Soon |
 | Linear Algebra                | [Details](KFUPM/Electives/GR/README.md)  |
 ---
 
