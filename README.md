@@ -92,7 +92,7 @@ In addition to my personal studies, I enjoy creating educational programs for my
   2. **Numerical Methods**  
      - [Notes and Homework](Num_Methods)  
   3. **Quantum Information**  
-     - [Notes and Homework](Quantum_Info)  
+     - [Notes and Homework](Quantum_info)  
   4. **Symmetries**  
      - [Notes and Homework](Symmetries)  
 
