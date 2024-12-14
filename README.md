@@ -70,7 +70,7 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 | Topic                         | Tutorial                      |
 |-------------------------------|----------------------------------|
 | Python for Physics            | [Details](Python_Tutorials/README.md) |
-| TikZ                          | [Details](Python_Tutorials/README.md) |
+| TikZ                          | [Details](Self_Study_and_Tutorials/TikZ) |
 | Python for data science       | [Details](https://github.com/FatmaAlhazmi/Udacity-Programming-for-Data-Science-with-Python-Nanodegree) |
 | Git                           | [Details](Git_commands.md) |
 | Mathematica                   | [Details](Self_Study/mathematica/README.md) |
