@@ -41,8 +41,8 @@ Here are some figures you can use. I will be adding more figs on a regular basis
 | Figure Name                             | Preview                                  | 
 |-----------------------------------------|------------------------------------------|
 | `veff-main-curve.tex`                   | ![Veff Main Curve](veff-main-curve.png)  | 
-| `bloch-sphere.tex`                      | ![Bloch Sphere](path/to/figure2.png)     |
-| `surface-s-vector.tex`                  | ![Surface S Vector](path/to/figure3.png) | 
+| `bloch-sphere.tex`                      | ![Bloch Sphere](bloch-sphere.png)     |
+| `surface-s-vector.tex`                  | ![Surface S Vector](surface-s-vector.png) | 
 | `empty-slot.tex`                        | *Empty space for future addition*        | 
 | `empty-slot.tex`                        | *Empty space for future addition*        | 
 | `empty-slot.tex`                        | *Empty space for future addition*        | 
