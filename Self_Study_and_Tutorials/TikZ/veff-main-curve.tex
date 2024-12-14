@@ -1,0 +1,62 @@
+\documentclass[border=3pt, tikz]{standalone}
+\usepackage{physics}
+\usepackage{tikz}
+\usepackage[outline]{contour} % glow around text
+\usetikzlibrary{calc, arrows.meta}
+
+\tikzset{>=latex} % LaTeX arrow heads
+\contourlength{1.35pt}
+
+% Color definitions
+\colorlet{xcol}{blue!70!black}
+\colorlet{vcol}{green!60!black}
+\colorlet{cmcol}{red!70!black}
+\colorlet{masscol}{red!50!black}
+\colorlet{ellipsecol}{gray!50!black}
+
+% TikZ styles
+\tikzstyle{rvec}=[->, xcol, very thick, line cap=round]
+\tikzstyle{vvec}=[->, vcol, very thick, line cap=round]
+\tikzstyle{CM}=[cmcol, fill=red!80!black!80]
+\tikzstyle{mass}=[line width=0.6, draw=masscol, top color=masscol!30, bottom color=masscol!10]
+\tikzstyle{ellipse}=[dashed, ellipsecol, thick]
+\usetikzlibrary{angles, quotes}
+
+\begin{document}
+
+Effective Potential
+
+\begin{tikzpicture}[
+    scale=1.5, % Adjust scaling factor here
+    line cap=round, 
+    axis/.style={thick, ->, >=latex, gray},
+    mainplot/.style={ultra thick, teal},
+    auxiliaryplot/.style={thick, dashed},
+    annotation/.style={font=\small, black!70}
+    ]
+
+    % Axes
+    \draw[axis] (-0.5,0) -- (7.5,0) node[below right] {$r$};
+    \draw[axis] (0,-2.5) -- (0,4.5) node[above left] {$V_\text{eff}$};
+
+    % Effective Potential Curve
+    \draw[mainplot] plot[domain=0.2:7.5, samples=200] (\x, {0.3/(\x*\x) - 0.9/\x});
+    
+    \draw[auxiliaryplot, red] plot[domain=0.6:7.5, samples=150] (\x, {1/(\x*\x)});
+    \draw[auxiliaryplot, blue] plot[domain=0.5:7.5, samples=150] (\x, {-1/\x});
+
+    % Marked Points and Annotations
+    \draw[dotted] (0.7,0) -- +(0,-0.68) node[annotation, below] {$r_o$};
+    \draw[dotted] (0.7,-0.68) -- (0,-0.68);
+    
+    % Custom Node Annotations
+    \node[annotation] at (0.8,3) {$V_\text{eff}$ (Main Curve)};
+    \node[annotation, red] at (2,1.2) {$1/r^2$};
+    \node[annotation, blue] at (2.5,-1.2) {$-1/r$};
+
+    % Highlight Critical Point
+    \fill[black] (0.7,-0.68) circle (2pt);
+
+\end{tikzpicture}
+
+\end{document}

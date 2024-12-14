@@ -1,0 +1,57 @@
+\documentclass[border=3pt, tikz]{standalone}
+\usepackage{physics}
+\usepackage{tikz}
+\usepackage[outline]{contour} % glow around text
+\usetikzlibrary{calc, arrows.meta}
+
+\tikzset{>=latex} % LaTeX arrow heads
+\contourlength{1.35pt}
+
+% Color definitions
+\colorlet{xcol}{blue!70!black}
+\colorlet{vcol}{green!60!black}
+\colorlet{cmcol}{red!70!black}
+\colorlet{masscol}{red!50!black}
+\colorlet{ellipsecol}{gray!50!black}
+
+% TikZ styles
+\tikzstyle{rvec}=[->, xcol, very thick, line cap=round]
+\tikzstyle{vvec}=[->, vcol, very thick, line cap=round]
+\tikzstyle{CM}=[cmcol, fill=red!80!black!80]
+\tikzstyle{mass}=[line width=0.6, draw=masscol, top color=masscol!30, bottom color=masscol!10]
+\tikzstyle{ellipse}=[dashed, ellipsecol, thick]
+\usetikzlibrary{angles, quotes}
+
+\begin{document}
+
+\begin{tikzpicture}[
+    scale=1.5, % Adjust scaling factor here
+    line cap=round,
+    axis/.style={thick, ->, >=latex, gray},
+    vector/.style={thick, ->, teal},
+    annotation/.style={font=\small, black!70}
+    ]
+
+    % Radius
+    \def\r{3}
+
+    % Bloch Vector
+    \draw[vector] (0, 0) node[circle, fill, inner sep=1] (orig) {} -- (\r/3, \r/2) node[circle, fill, inner sep=0.7, label=above:$\vec{a}$] (a) {};
+    \draw[dashed] (orig) -- (\r/3, -\r/5) node (phi) {} -- (a);
+
+    % Sphere
+    \draw (orig) circle (\r);
+    \draw[dashed] (orig) ellipse (\r{} and \r/3);
+
+    % Axes
+    \draw[axis] (orig) -- ++(-\r/5, -\r/3) node[below] (x1) {$x_1$};
+    \draw[axis] (orig) -- ++(\r, 0) node[right] (x2) {$x_2$};
+    \draw[axis] (orig) -- ++(0, \r) node[above] (x3) {$x_3$};
+
+    % Angles
+    \pic [draw=gray, text=gray, angle radius=1cm, ->, "$\phi$"] {angle = x1--orig--phi};
+    \pic [draw=gray, text=gray, angle radius=1cm, <-, "$\theta$"] {angle = a--orig--x3};
+
+\end{tikzpicture}
+
+\end{document}
