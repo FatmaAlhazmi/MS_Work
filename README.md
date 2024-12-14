@@ -20,7 +20,7 @@ My wonderful friend created a similar repo during her bachelor’s in CS, and I 
 
 I created this repo to organize everything in one place for easy reference and to develop my skills in LaTeX (especially for creating diagrams) and Git. While I’ve done my best to ensure these notes are accurate, they are personal and may include errors, typos, or oversights. If you spot anything or have ideas for improvement, I’d greatly appreciate your feedback!
 
-I first started doing Applied Mathematics at KAUST, which was quite a journey at the Advanced Algorithms and Numerical Analysis Lab. I have so so much love for this group and for KAUST. However, after A LOT of thinking, I decided to switch gears and go back to physics and so I joined the physics program at KFUPM.
+A little background about myself: I first started doing Applied Mathematics at KAUST, which was quite a journey at the Advanced Algorithms and Numerical Analysis Lab. I have so so much love for this group and for KAUST. However, after A LOT of thinking, I decided to switch gears and go back to physics and so I joined the physics program at KFUPM.
 
 ---
 
