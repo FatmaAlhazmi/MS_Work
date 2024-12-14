@@ -10,16 +10,63 @@ This is a collection of **TikZ figures** that I made for physics. The goal is to
 - You can easily customize these figures by editing the `.tex` files.
 
 ---
+## How to Use
+
+1. Browse the table below and pick a figure.
+2. Open the corresponding `.tex` file in your favorite LaTeX editor.
+3. Customize it if needed:
+   - Change labels, colors, or sizes to fit your project.
+4. Compile the file to generate a PDF of the figure:
+   ```bash
+   pdflatex filename.tex
+   ```
+
+5.	Convert the PDF to PNG or SVG using your favorite tool:
+	  •	For PNG:
+    ```bash
+    magick filename.pdf filename.png
+    ```
+   •	For PNG:
+    ```bash
+    pdf2svg filename.pdf filename.svg
+    ```
+
+
+---
 
 ## Figures
 
 Here are some figures you can use. I will be adding more figs on a regular basis.
 
-| Figure Name                             | Preview                                   | Description               |
-|-----------------------------------------|------------------------------------------|---------------------------|
-| `veff-main-curve.tex`                   | ![Veff Main Curve](path/to/figure1.png)  | Effective potential plot including \( V_\text{eff} \), \( 1/r^2 \), and \( -1/r \). |
-| `bloch-sphere.tex`                      | ![Bloch Sphere](path/to/figure2.png)     | Bloch sphere depicting qubit states and angles \( \theta \), \( \phi \). |
-| `surface-s-vector.tex`                  | ![Surface S Vector](path/to/figure3.png) | Surface \( S \) showing vectors \( \vb{r}, \vb{r}' \), and \( \vb{\tau} \). |
-| `empty-slot.tex`                        | *Empty space for future addition*        | Placeholder for a new diagram. |
-| `empty-slot.tex`                        | *Empty space for future addition*        | Placeholder for a new diagram. |
-| `empty-slot.tex`                        | *Empty space for future addition*        | Placeholder for a new diagram. |
+| Figure Name                             | Preview                                  | 
+|-----------------------------------------|------------------------------------------|
+| `veff-main-curve.tex`                   | ![Veff Main Curve](path/to/figure1.png)  | 
+| `bloch-sphere.tex`                      | ![Bloch Sphere](path/to/figure2.png)     |
+| `surface-s-vector.tex`                  | ![Surface S Vector](path/to/figure3.png) | 
+| `empty-slot.tex`                        | *Empty space for future addition*        | 
+| `empty-slot.tex`                        | *Empty space for future addition*        | 
+| `empty-slot.tex`                        | *Empty space for future addition*        | 
+
+
+---
+
+## Customization Tips
+
+These figures are highly customizable to suit your specific needs:
+### 1.	Change Colors:
+
+ 
+### 2. Resize Figures:
+
+### 3. Edit Labels
+
+
+### 4. Modify Line Styles
+
+
+### 5. Adjust Shapes
+
+
+
+### 6. Add or Remove Arrows
+
