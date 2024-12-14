@@ -70,10 +70,10 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 | Topic                         | Tutorial                      |
 |-------------------------------|----------------------------------|
 | Python for Physics            | [Details](Python_Tutorials/README.md) |
-| Mathematica                   | [Details](Self_Study/mathematica/README.md) |
+| TikZ                          | [Details](Python_Tutorials/README.md) |
 | Python for data science       | [Details](Self_Study/Git/README.md) |
 | Git                           | [Details](Git_commands.md) |
-
+| Mathematica                   | [Details](Self_Study/mathematica/README.md) |
 
 In addition to my personal studies, I enjoy creating educational programs for my little nephews and nieces to introduce them to STEM concepts. These programs are designed to be interactive and hands-on.
 
@@ -100,7 +100,7 @@ In addition to my personal studies, I enjoy creating educational programs for my
   [*When Quantum Mechanics Meets Special Relativity*](PSIQFT2022__Real_.pdf)
 
 
-- **Qimam Fellowship Highlights**:
+## * Qimam Fellowship Highlights 
   - Leadership development sessions
   - Networking opportunities with industry leaders
 
