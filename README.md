@@ -102,7 +102,6 @@ In addition to my personal studies, I enjoy creating educational programs for my
   - Leadership development sessions
   - Networking opportunities with industry leaders
 
----
 
 ## **Wolfram Summer School**
 - **Courses and Topics**:
