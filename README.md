@@ -20,8 +20,6 @@ My wonderful friend created a similar repo during her bachelor’s in CS, and I 
 
 I created this repo basically to keep everything organized and to practice using tools like LaTeX (especially for diagrams) and Git; This semester, I started a new study method: I take rough notes during lectures and later rewrite them in LaTeX to understand and organize the material better. Collecting everything here seemed like a good idea, and maybe others might find it useful too. While I’ve done my best to ensure these notes are accurate, they are personal and may include errors, typos, or oversights. If you spot anything or have ideas for improvement, I’d greatly appreciate your feedback!
 
-A little background about myself: I first started doing Applied Mathematics at KAUST, which was quite a journey at the Advanced Algorithms and Numerical Analysis Lab. I have so so much love for this group and for KAUST. However, after A LOT of thinking, I decided to switch gears and go back to physics and so I joined the physics program at KFUPM.
-
 ---
 
 ## 📖 Table of Contents
@@ -100,7 +98,7 @@ In addition to my personal studies, I enjoy creating educational programs for my
   [*When Quantum Mechanics Meets Special Relativity*](PSIQFT2022__Real_.pdf)
 
 
-## * Qimam Fellowship Highlights 
+## Qimam Fellowship Highlights 
   - Leadership development sessions
   - Networking opportunities with industry leaders
 
