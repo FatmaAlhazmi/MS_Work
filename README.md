@@ -102,15 +102,14 @@ In addition to my personal studies, I enjoy creating educational programs for my
   - Leadership development sessions
   - Networking opportunities with industry leaders
 
-### **Wolfram Summer School**
+---
+
+## **Wolfram Summer School**
 - **Courses and Topics**:
-  - Advanced Mathematica for Physics Simulations
-  - Chaos and Dynamical Systems
-  - Introduction to Machine Learning for Physical Systems
+
 - **Main Project**:
-  - **Title**: Exploring the Three-Body Problem
-  - **Objective**: Developing computational tools to analyze chaotic systems and generate Poincaré maps
-  - [Link to project folder](Wolfram/README.md)
+  - **Title**: 
+  - **Objective**: 
 
 ---
 
