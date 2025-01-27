@@ -60,6 +60,7 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 | Numerical Analysis of ODEs    | [Details](KFUPM/Electives/NAODEs/README.md)   |
 | General Relativity            | Soon |
 | Linear Algebra                | [Details](KFUPM/Electives/GR/README.md)  |
+| Calculus of Variations            | Soon |
 ---
 
 ## Self-Study and Tutprials
