@@ -86,14 +86,10 @@ In addition to my personal studies, I enjoy creating educational programs for my
 
 ### **PSI Summer School (Perimeter Institute)**
 - **Courses Taken**:
-  1. **Path Integrals**  
-     - [Notes and Homework](Path_Integrals)  
-  2. **Numerical Methods**  
-     - [Notes and Homework](Num_Methods)  
+  1. **Path Integrals**   
+  2. **Numerical Methods**   
   3. **Quantum Information**  
-     - [Notes and Homework](Quantum_info)  
   4. **Symmetries**  
-     - [Notes and Homework](Symmetries)  
 
 - **Mini-Project**:  
   [*When Quantum Mechanics Meets Special Relativity*](PSIQFT2022__Real_.pdf)
