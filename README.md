@@ -52,8 +52,8 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 ### Table of Contents for KFUPM Courses
 | Course Name                   | Sub-README                   |
 |-------------------------------|------------------------------|
-| Classical Mechanics           | [Details]([KFUPM/Core/CM/README.md](https://github.com/FatmaAlhazmi/MS_Work/blob/main/KFUPM/Core/CM/cmlecturenotes_draft.pdf)) |
-| Quantum Mechanics             | [Details]([KFUPM/Core/QM/README.md](https://github.com/FatmaAlhazmi/MS_Work/blob/main/KFUPM/Core/QM/501notes_draft.pdf))   |
+| Classical Mechanics           | [Details](https://github.com/FatmaAlhazmi/MS_Work/blob/main/KFUPM/Core/CM/cmlecturenotes_draft.pdf) |
+| Quantum Mechanics             | [Details](https://github.com/FatmaAlhazmi/MS_Work/blob/main/KFUPM/Core/QM/501notes_draft.pdf)   |
 | Statistical Mechanics         | ... |
 | Classical Electrodynamics     | ... |
 | Advanced Methods of Theoretical Physics | ... |
