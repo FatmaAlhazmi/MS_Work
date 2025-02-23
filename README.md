@@ -52,15 +52,15 @@ My time at KAUST was transformative and full of exciting challenges. I will be f
 ### Table of Contents for KFUPM Courses
 | Course Name                   | Sub-README                   |
 |-------------------------------|------------------------------|
-| Classical Mechanics           | [Details](KFUPM/Core/CM/README.md) |
-| Quantum Mechanics             | [Details](KFUPM/Core/QM/README.md)   |
-| Statistical Mechanics         | Soon |
-| Classical Electrodynamics     | Soon |
-| Advanced Methods of Theoretical Physics | Soon |
+| Classical Mechanics           | [Details]([KFUPM/Core/CM/README.md](https://github.com/FatmaAlhazmi/MS_Work/blob/main/KFUPM/Core/CM/cmlecturenotes_draft.pdf)) |
+| Quantum Mechanics             | [Details]([KFUPM/Core/QM/README.md](https://github.com/FatmaAlhazmi/MS_Work/blob/main/KFUPM/Core/QM/501notes_draft.pdf))   |
+| Statistical Mechanics         | ... |
+| Classical Electrodynamics     | ... |
+| Advanced Methods of Theoretical Physics | ... |
 | Numerical Analysis of ODEs    | [Details](KFUPM/Electives/NAODEs/README.md)   |
-| General Relativity            | Soon |
+| General Relativity            | ... |
 | Linear Algebra                | [Details](KFUPM/Electives/GR/README.md)  |
-| Calculus of Variations            | Soon |
+| Calculus of Variations            | ... |
 ---
 
 ## Self-Study and Tutprials
