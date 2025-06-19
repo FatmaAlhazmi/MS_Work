@@ -15,7 +15,7 @@
 ### Notes
 | File           | Link                     |
 |----------------|--------------------------|
-| Handwritten Notes (Random and Messy) | [Notes](/KAUST/LA/My_notes_for_linear_algebra 2.pdf) |
+| Handwritten Notes (Random and Messy) | [Notes](/KAUST/LA/My_notes_for_linear_algebra.pdf) |
 
 
 ----
